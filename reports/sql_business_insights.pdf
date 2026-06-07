@@ -1,0 +1,46 @@
+# SQL Business Insights Report
+
+## Project Objective
+
+Analyze supply chain operations to identify revenue opportunities, inventory risks, supplier inefficiencies, and warehouse performance issues.
+
+## Key Findings
+
+### 1. Warehouse Performance
+
+* Warehouse D generated the highest revenue.
+* Warehouse A had the highest stockout rate.
+* Warehouse D recorded the longest average lead time.
+
+### 2. Product Category Analysis
+
+* Electronics contributed the highest revenue.
+* Food showed the largest demand gap.
+* Furniture maintained the best inventory coverage.
+
+### 3. Supplier Analysis
+
+* Supplier 263 had the highest average lead time.
+* Supplier 205 demonstrated the best delivery performance.
+
+### 4. Inventory Analysis
+
+* Several categories showed inventory coverage below 1, indicating potential stock shortages.
+* High-demand products experienced frequent stockout events.
+
+### 5. Order Priority Analysis
+
+* High-priority orders were fulfilled faster than low-priority orders.
+* Lead time increased as order priority decreased.
+
+## Recommendations
+
+1. Increase safety stock for categories with low inventory coverage.
+2. Review supplier contracts for suppliers with consistently high lead times.
+3. Investigate warehouses with high stockout and backorder rates.
+4. Improve demand forecasting for categories with large demand gaps.
+5. Monitor fulfillment performance for high-priority orders.
+
+## Business Impact
+
+Implementing these recommendations could reduce stockouts, improve fulfillment rates, and increase customer satisfaction while optimizing inventory costs.
